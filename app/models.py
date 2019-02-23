@@ -1,6 +1,6 @@
 from sqlalchemy import Column, Integer, String, Float, Text, DateTime
 from .db import Base
-import datetime as dt
+
 
 
 class JiraIssue(Base):
