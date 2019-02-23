@@ -5,11 +5,16 @@ verify_ssl = true
 
 [dev-packages]
 python-dotenv="*"
+pylama="*"
 
 [packages]
 requests="*"
 flask="*"
 flask-sqlalchemy="*"
+flask-redis="*"
+psycopg2="*"
+psycopg2-binary="*"
+arrow="*"
 
 
 [requires]
