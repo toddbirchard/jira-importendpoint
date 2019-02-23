@@ -9,6 +9,7 @@ python-dotenv="*"
 [packages]
 requests="*"
 flask="*"
+flask-sqlalchemy="*"
 
 
 [requires]
